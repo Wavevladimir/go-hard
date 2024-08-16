@@ -1,0 +1,1 @@
+print("Vova good luck")
